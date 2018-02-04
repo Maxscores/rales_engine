@@ -1,6 +1,8 @@
 # README
 [![CircleCI](https://circleci.com/gh/Maxscores/rales_engine.svg?style=shield)](https://circleci.com/gh/Maxscores/rales_engine) 
-<a href="https://codeclimate.com/github/Maxscores/rales_engine/maintainability"><img src="https://api.codeclimate.com/v1/badges/c723505e13859365504e/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/c723505e13859365504e/maintainability)](https://codeclimate.com/github/Maxscores/rales_engine/maintainability)
+
+
 
 Welcome to Rails Engine! This is a project for Turing Backend Mod 3 class where we build an internal sales engine API using ruby on rails: [docs here](http://backend.turing.io/module3/projects/rails_engine#technical-expectations)
 
