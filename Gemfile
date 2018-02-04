@@ -32,6 +32,7 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'shoulda-matchers'
 end
+gem 'simplecov', require: false, group: :test 
 
 group :development do
   gem 'listen', '>= 3.0.5', '< 3.2'
