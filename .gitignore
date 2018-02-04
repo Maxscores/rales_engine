@@ -13,6 +13,6 @@
 !/log/.keep
 !/tmp/.keep
 
-coverage
+/coverage
 
 .byebug_history
