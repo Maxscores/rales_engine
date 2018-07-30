@@ -8,4 +8,8 @@ class Api::V1::Merchants::MerchantsController < ApplicationController
     render json: Merchant.find(params[:id])
   end
 
+  def post
+    require "pry"; binding.pry
+  end
+
 end

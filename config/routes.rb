@@ -3,6 +3,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       namespace :merchants do
         get '', to: "merchants#index"
+        post '', to: "merchants#post"
         get '/find', to: "search#show"
         get '/find_all', to: "search#index"
         get '/random', to: "random#show"
